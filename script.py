@@ -108,7 +108,7 @@ class Script():
         
         
         
-instance = Script(driver, 'https://www.jeuxvideo.com/forums/42-51-69544642-1-0-1-0-test.htm','BOT-GENTIL', '1234Abcd')
+instance = Script(driver, 'https://www.jeuxvideo.com/forums/42-51-69544642-1-0-1-0-test.htm','BOT-GENTIL', 'MDP')
 
 instance.start()     
         
